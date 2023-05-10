@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-name='RegressorProject',
+name='MachineLearningProject',
 version='0.0.1',
 author='Shahin',
 author_name='shahin.anjum@outlook.com',
